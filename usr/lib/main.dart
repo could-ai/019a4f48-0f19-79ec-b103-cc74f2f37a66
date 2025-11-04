@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'models/conlang_models.dart';
 import 'screens/home_screen.dart';
 import 'screens/phonology_screen.dart';
 import 'screens/vocabulary_screen.dart';

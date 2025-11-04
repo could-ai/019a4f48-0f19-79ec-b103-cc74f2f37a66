@@ -67,6 +67,7 @@ class _GrammarScreenState extends State<GrammarScreen> {
                         icon: const Icon(Icons.edit),
                         onPressed: () => _editRule(index),
                       ),
+                      IconButton(
                         icon: const Icon(Icons.delete),
                         onPressed: () => _deleteRule(index),
                       ),
